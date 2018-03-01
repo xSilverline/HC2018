@@ -54,6 +54,6 @@ public class InputContainer {
 
     public static void main(String[] args) {
         InputContainer inputContainer = new InputContainer();
-        inputContainer.loadInput("a_example.in");
+        inputContainer.loadInput("C:\\Users\\Jonasz\\hc\\out\\production\\hc\\resources\\a_example.in");
     }
 }
