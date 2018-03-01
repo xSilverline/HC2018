@@ -1,4 +1,4 @@
-package java;
+package HashCode;
 
 public class HashCode {
 }

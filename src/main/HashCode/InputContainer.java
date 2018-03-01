@@ -1,4 +1,4 @@
-package java;
+package HashCode;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -54,6 +54,6 @@ public class InputContainer {
 
     public static void main(String[] args) {
         InputContainer inputContainer = new InputContainer();
-        inputContainer.loadInput("");
+        inputContainer.loadInput("a_example.in");
     }
 }
