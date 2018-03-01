@@ -1,4 +1,4 @@
-
+package HashCode;
 
 import java.io.*;
 import java.util.ArrayList;

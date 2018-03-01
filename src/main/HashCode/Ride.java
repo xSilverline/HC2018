@@ -1,4 +1,4 @@
-
+package HashCode;
 
 //DTO for storing rides read from input file
 public class Ride {
